@@ -29,10 +29,11 @@ public class Graph_View extends Frame implements ActionListener,WindowListener
         data.addValue(120, "米国", "2007年");
 
 
-
         data.addValue(200, "中国", "2005年");
         data.addValue(400, "中国", "2006年");
         data.addValue(320, "中国", "2007年");
+
+
 
 
         JFreeChart chart = 
